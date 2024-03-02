@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264371398231",
+    "project_id": "time-log-2053b",
+    "storage_bucket": "time-log-2053b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264371398231:android:1672a1277dc1ecfcc5e512",
+        "android_client_info": {
+          "package_name": "com.toyproject.time_log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiLKWmKazEiOMQZXXV4tYsi9auM3qOnWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
